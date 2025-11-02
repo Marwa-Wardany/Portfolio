@@ -24,7 +24,9 @@ function Projects() {
               imgPath={makeup}
               isBlog={false}
               title="Makeup Website"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
+              description="Designed and built a fully responsive makeup website using HTML, CSS, and 
+JavaScript.The project highlights modern UI/UX design principles, product display 
+components, and a mobile-friendly interface."
               ghLink="https://github.com/Marwa-Wardany/makeup-website-NTI.git"
               demoLink="https://makeup-website-nti-git-main-marwa-wardanys-projects.vercel.app"
             />
@@ -35,7 +37,8 @@ function Projects() {
               imgPath={land}
               isBlog={false}
               title="Save Your Land"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
+              description="Built with React, Bootstrap, and i18n Implemented multilingual support using react-i18next, enhancing accessibility for 
+global users"
               ghLink="https://github.com/MinaRemon39/Save-your-land.git"
               demoLink=""
             />
@@ -46,7 +49,8 @@ function Projects() {
               imgPath={code}
               isBlog={false}
               title="Waqe2k"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
+              description="Built a fully responsive UI using Tailwind CSS and Bootstrap components, 
+ensuring consistency across desktop, tablet, and mobile."
               ghLink="https://github.com/Marwa-Wardany/my-first-nextjs-app.git"
               demoLink=""              
             />
